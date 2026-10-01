@@ -7,6 +7,7 @@ public class App {
 
     public static void tulostaOhjelmanNimi() {
         System.out.println("Metodi-ohjelma");
+        System.out.println("**************");
     }
 
 }
